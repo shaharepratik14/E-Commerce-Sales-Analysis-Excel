@@ -31,3 +31,4 @@ Target women customers of the age group (30-49 yrs) living in Maharashtra, Karna
 
 **6. Screenshot of Dashboard:**
 
+![Preview](https://github.com/shaharepratik14/E-Commerce-Sales-Analysis-Excel/blob/main/Screenshot%20of%20E-Commerce%20Analysis%20Dashboard.png)
